@@ -40,6 +40,14 @@
   padding: 5px;
   margin: 10px;
   position: relative;
+  cursor: pointer;
+
+  .shelf-item-title {
+
+  }
+  .shelf-item-price {
+
+  }
 }
 
 .add-to-cart-button {
@@ -47,4 +55,8 @@
   color: #fff;
   width: 90%;
   padding: 15px 0;
+}
+.add-to-cart-button:hover {
+  background-color: #ffe070;
+  color: #000;
 }

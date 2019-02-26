@@ -9,7 +9,24 @@ class ShelfContainer extends Component {
     return (
       <div className="shelfContainer">
         <div className="shelfHeaderContainer">Shelf Header</div>
-        <ShelfItems/>
+        <div className="shelfItemsContainer">
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+          <ShelfItems title="Placeholder Title" price="$13.00"/>
+        </div>
       </div>
     );
   }
