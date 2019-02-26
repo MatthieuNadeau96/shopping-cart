@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import Filters from './Filters';
-import ShelfContainer from './ShelfContainer';
+import ShelfContainer from '../ShelfContainer/ShelfContainer';
 
 
 class Main extends Component {
