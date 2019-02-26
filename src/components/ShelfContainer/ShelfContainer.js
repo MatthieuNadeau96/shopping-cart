@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import ShelfItems from './ShelfItems';
+import ShelfItems from './ShelfItems/ShelfItems';
 
 class ShelfContainer extends Component {
 
