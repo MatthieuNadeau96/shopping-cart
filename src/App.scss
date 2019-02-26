@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  margin: 50px auto 0;
+  max-width: 1200px;
+
+}
+
+.shelfContainer {
+  display: flex;
+  width: 85%;
+  flex-wrap: wrap;
+  min-height: 600px;
+}
+
+.shelf-item {
+  background-color: #fff;
+  box-sizing: border-box;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  margin: 10px;
+  position: relative;
+}
