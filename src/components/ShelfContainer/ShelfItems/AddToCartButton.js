@@ -4,7 +4,7 @@ class AddToCartButton extends Component {
 
   render() {
     return (
-      <div className="add-to-cart-button">
+      <div className={this.props.hover ? "add-to-cart-button-active" : "add-to-cart-button"}>
         Add to Cart
       </div>
     );
