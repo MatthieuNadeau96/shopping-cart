@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import Filters from './Filters';
+import Filters from '../Filters/Filters';
 import ShelfContainer from '../ShelfContainer/ShelfContainer';
 
 

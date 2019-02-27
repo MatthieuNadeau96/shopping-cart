@@ -11,7 +11,11 @@ class ShelfContainer extends Component {
         <div className="shelfItemsContainer">
           <ShelfItems
             title="Placeholder Title"
-            price="$13.00"
+            price="$10.00"
+            />
+          <ShelfItems
+            title="Placeholder Title"
+            price="$23.00"
             />
           <ShelfItems
             title="Placeholder Title"
@@ -19,27 +23,23 @@ class ShelfContainer extends Component {
             />
           <ShelfItems
             title="Placeholder Title"
-            price="$13.00"
+            price="$7.00"
             />
           <ShelfItems
             title="Placeholder Title"
-            price="$13.00"
+            price="$15.00"
             />
           <ShelfItems
             title="Placeholder Title"
-            price="$13.00"
+            price="$14.00"
             />
           <ShelfItems
             title="Placeholder Title"
-            price="$13.00"
+            price="$29.00"
             />
           <ShelfItems
             title="Placeholder Title"
-            price="$13.00"
-            />
-          <ShelfItems
-            title="Placeholder Title"
-            price="$13.00"
+            price="$10.50"
             />
         </div>
       </div>
